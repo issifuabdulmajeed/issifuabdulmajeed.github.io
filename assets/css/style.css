@@ -1,0 +1,10 @@
+.button {
+    background-color: blue; /* Blue background color */
+    color: white; /* White text color */
+    padding: 10px 20px; /* Add some padding to make it look like a button */
+    cursor: pointer; /* Change cursor to a pointer on hover to indicate interactivity */
+}
+
+.button:hover {
+    background-color: darkblue; /* Darker blue background color on hover */
+}
